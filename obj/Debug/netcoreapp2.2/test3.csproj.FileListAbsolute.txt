@@ -1,0 +1,11 @@
+C:\Projects\test3\test3\bin\Debug\netcoreapp2.2\test3.deps.json
+C:\Projects\test3\test3\bin\Debug\netcoreapp2.2\test3.runtimeconfig.json
+C:\Projects\test3\test3\bin\Debug\netcoreapp2.2\test3.runtimeconfig.dev.json
+c:\Projects\test3\test3\bin\Debug\netcoreapp2.2\test3.dll
+c:\Projects\test3\test3\bin\Debug\netcoreapp2.2\test3.pdb
+c:\Projects\test3\test3\obj\Debug\netcoreapp2.2\test3.csprojAssemblyReference.cache
+c:\Projects\test3\test3\obj\Debug\netcoreapp2.2\test3.csproj.CoreCompileInputs.cache
+c:\Projects\test3\test3\obj\Debug\netcoreapp2.2\test3.AssemblyInfoInputs.cache
+c:\Projects\test3\test3\obj\Debug\netcoreapp2.2\test3.AssemblyInfo.cs
+c:\Projects\test3\test3\obj\Debug\netcoreapp2.2\test3.dll
+c:\Projects\test3\test3\obj\Debug\netcoreapp2.2\test3.pdb
